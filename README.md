@@ -1,4 +1,4 @@
-# Data Modeling with Postgres Project Starter Code
+# Data Lake Project Starter Code
 
 The objective of this project is to apply what we've learned on Spark and data lakes to build an ETL pipeline for a data lake hosted on S3.
 
